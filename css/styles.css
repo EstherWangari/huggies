@@ -24,3 +24,4 @@ body{font-family:'Raleway', sans-serif;}
 .shopping{background-color:#dc1f1f;color: #fff;height:50px;padding-left: 10px;padding-top:10px;}
 button{background-color:#367d36;color:#fff;width:68%;height:44px;border-radius:22px;border:none}
 button:focus{background-color:green}
+center  .fab {color:#dc1f1f;font-size:2em}
