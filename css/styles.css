@@ -1,10 +1,13 @@
 .reddish{border:1px solid red;}
 .blueish{border:1px dashed blue;}
 .part1{background-image: url(../images/bg.jpg);height:500px;background-size: cover;padding-top:30px}
-.nav{min-height:50px;background-color:#dc1f1f;}
-.nav img{max-width:100%;}
-.nav ul li{float:left;width:15%;text-align: center;}
-.li{padding-top: 25px;color:#f2f2f2;border-right:2px solid grey}
+.nav{min-height:50px;background-color:#dc1f1f;position: relative;}
+ul{position: relative;}
+.nav img{max-width:100%;    position: absolute;height: 90px;left: 135px;top: -19px;}
+.nav ul li{float:left;width:20%;text-align: center;padding-top: 25px}
+.nav ul li:first-child{color:white;font-weight:900;font: 1.2em;padding-top:20px}
+.nav ul li:last-child{border: none}
+.li{padding-top: 25px;color:#f2f2f2;border-right:1px solid #949494;}
 .float div{float:left;}
 .float img{width:30%}
 .floattext{padding-top:30px;font-size:2em}
