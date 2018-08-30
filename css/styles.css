@@ -12,7 +12,6 @@ ul{position: relative;}
 .floattext{font-size:2em;color:#dc1f1f;}
 .floattext p{padding-left: 60px;}
 .floatimg img{max-width: 100%;padding-top:50px}
-
 .part2{margin-top:10px}
 .part2 img{max-width:100%;border:1px dashed red;padding:20px 10px 20px 10px;border-radius:10%}
 .part2 p {text-align: center;}
@@ -25,3 +24,8 @@ body{font-family:'Raleway', sans-serif;}
 button{background-color:#367d36;color:#fff;width:68%;height:44px;border-radius:22px;border:none}
 button:focus{background-color:green}
 center  .fab {color:#dc1f1f;font-size:2em}
+.part4{background-image: url(../images/bg.jpg);height:350px;background-size: cover;padding-top:30px}
+.teddy div{}
+.teddy img{width:30%;position: absolute;top:0px;left:270px}
+.teddy{width:50%;height:50%;position: relative;}
+.teddytext p{font-size:2em;color:#dc1f1f;padding-top:10px}
