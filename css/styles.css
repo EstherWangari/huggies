@@ -43,3 +43,27 @@ textarea{height:6rem;border-radius: 0.2rem;margin-top: 5px;}
 .part5 input[type=password]{border:1px solid #d1d1d1;border-radius:0.2rem}
 .register button{background-color:grey;color:#fff;width:40%;height:44px;border-radius:22px;border:none}
 .end .fab {color:#dc1f1f;font-size:2em}
+.select-wrapper input.select-dropdown{background-color: pink}
+.part3 ul:not(.browser-default)>li:last-child{background-color: pink;}
+.part3 ul:not(.browser-default)>li:nth-child(3){background-color: pink;}
+
+
+
+
+
+@media all and (min-width: 0) and (max-width: 360px) and (orientation: portrait) {
+  .part1 {background-image: url(../images/bg.jpg);height:413px;background-size: cover;padding-top: 7px;}
+  .nav ul li{text-align: center;float:unset;width:unset ;padding-top:0;line-height: 2;}
+  .nav img {max-width: 100%;position: absolute;height: 45px;left: 13px;top: -19px;}
+  .li{border-right: none}
+  .floattext {font-size: unset}
+  .floattext p{padding-left: unset}
+  .floattext img{width: 50%;margin-left: unset}
+  .icons{padding-top: 115px}
+  .part4 {background-image: url(../images/bg.jpg);height:413px;background-size: cover;padding-top: 7px;}
+  .teddy img {width: 60%;position: absolute;top: 0px;left: 200px;}
+  .teddytext p{font-size:unset;color:#dc1f1f;padding-top:unset}
+  .part5{padding-top: unset;}
+  .part5 button {background-color: #367d36;color: #fff;width: 65%;height: 44px;border-radius: 22px;border: none;}
+
+  
