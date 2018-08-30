@@ -22,10 +22,24 @@ ul{position: relative;}
 body{font-family:'Raleway', sans-serif;}
 .shopping{background-color:#dc1f1f;color: #fff;height:50px;padding-left: 10px;padding-top:10px;}
 button{background-color:#367d36;color:#fff;width:68%;height:44px;border-radius:22px;border:none}
-button:focus{background-color:green}
+.shopping button:focus{background-color:green}
 center  .fab {color:#dc1f1f;font-size:2em}
 .part4{background-image: url(../images/bg.jpg);height:350px;background-size: cover;padding-top:30px}
 .teddy div{}
 .teddy img{width:30%;position: absolute;top:0px;left:270px}
 .teddy{width:50%;height:50%;position: relative;}
 .teddytext p{font-size:2em;color:#dc1f1f;padding-top:10px}
+.part5{padding-top:30px}
+.guestcheckout{background-color:#dc1f1f;color: #fff;height:50px;padding-left: 10px;padding-top:10px;margin-bottom: 30px;}
+.part5 input[type=text]{border:1px solid #d1d1d1;border-radius:0.2rem}
+.part5 form{line-height: 5}
+textarea{height:6rem;border-radius: 0.2rem;margin-top: 5px;}
+.part5 button{background-color:#367d36;color:#fff;width:40%;height:44px;border-radius:22px;border:none}
+.part5  .first{width:25%;background-color:#dc1f1f;color:#fff;text-transform: lowercase;}
+.part5  .second{width:25%;background-color:#48459D;color:#fff;text-transform: lowercase;}
+.part5  .third{width:25%;background-color:#36A2EC;color:#fff;text-transform: lowercase;}
+.part5 .fab{font-size: 0.8em;padding-right: 10px}
+.part5 .btn{margin-left: 15px}
+.part5 input[type=password]{border:1px solid #d1d1d1;border-radius:0.2rem}
+.register button{background-color:grey;color:#fff;width:40%;height:44px;border-radius:22px;border:none}
+.end .fab {color:#dc1f1f;font-size:2em}
